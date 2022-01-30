@@ -1,0 +1,26 @@
+#click {
+  color: blueviolet;
+  text-align: center;
+  margin-left: 45%;
+  border-radius: 5px;
+
+
+}
+#click:hover {
+    background-color: lightblue;
+    width: 100px;
+    height: 30px;
+}
+body {
+    background-color: lightblue;
+}
+
+
+table {
+    background-color: lightcoral;
+
+}
+tr {
+    border: 2px solid red;
+    
+}
